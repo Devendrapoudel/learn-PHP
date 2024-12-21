@@ -1,4 +1,13 @@
 <?php
-$name= "sagar poudel";
-echo $name;
+echo"sagar";
+ echo "<br>";
+ echo"sagar";
+ echo "<br>";
+ echo"sagar";
+ echo "<br>";
+ echo"sagar";
+ echo "<br>";
+
+
+
 ?>
